@@ -113,6 +113,8 @@ header ul {
   overflow: auto;
   display: flex;
   flex-direction: column;
+  width: 230px;
+  height: 220px;
   justify-content: center;
   align-items: center;
   padding: 25px;
