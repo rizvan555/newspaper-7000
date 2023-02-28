@@ -103,10 +103,11 @@ header ul {
   height: 220px;
   justify-content: center;
   align-items: center;
-  padding: 10px;
-  font-size: 2.4rem;
+   font-size: 3rem;
+  font-weight: bold;
   border: 3px double #000;
   letter-spacing: 2px;
+  text-align: center;
 }
 .asid__article2 {
   display: grid;
